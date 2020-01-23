@@ -1,0 +1,6 @@
+print('Tell me your name:')
+x = input()
+print('Hi, ' + x)
+print('How can I help you?')
+y = input()
+print('Sorry, I am not programmed to help you with ' + y)
